@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    paddind:0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color:blueviolet;
+    height:250px;
+    text-align:center;
+    font-size:80px;
+}
+body{
+    font-size:large;
+    font-family:cursive;
+    font-weight: 200;
+    text-weight:left;
+
+}
+/*fieldest{
+    height:1200px;
+} */
+
